@@ -23,3 +23,5 @@
 - C++
 
 </details>
+
+![Languages](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Kohen-Blake/github-stats/main/languages.json)
