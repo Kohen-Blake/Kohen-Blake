@@ -1,16 +1,25 @@
-### Hi there 👋
+# My Stats
+<img align="left" alt="ChickenDevs' Stats" src="https://github-readme-stats.vercel.app/api?username=Kohen-Blake&count_private=true&show_icons=true&theme=radical">
 
-<!--
-**Kohen-Blake/Kohen-Blake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools and Languages
+
+<details>
+<summary>Tools</summary>
+
+- Visual Studio 2022
+- Visual Studio Code
+- Replit
+
+</details>
+
+<details>
+<summary>Languages</summary>
+
+- Python
+- HTML/CSS
+- C++
+
+</details>
