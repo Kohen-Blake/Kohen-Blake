@@ -1,5 +1,5 @@
 # My Stats
-<img align="left" alt="ChickenDevs' Stats" src="https://github-readme-stats.vercel.app/api?username=Kohen-Blake&count_private=true&show_icons=true&theme=radical">
+<img align="bottom" alt="ChickenDevs' Stats" src="https://github-readme-stats.vercel.app/api?username=Kohen-Blake&count_private=true&show_icons=true&theme=radical">
 
 ## About Me
 
